@@ -1,0 +1,25 @@
+{
+  "name": "react-native-project",
+  "version": "1.0.0",
+  "description": "projeto para a faculdade feito em react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renanvilabela/react-native-project.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Renan Vila Bela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renanvilabela/react-native-project/issues"
+  },
+  "homepage": "https://github.com/renanvilabela/react-native-project#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
