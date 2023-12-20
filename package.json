@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/renanvilabela/react-native-project#readme",
   "dependencies": {
+    "papaparse": "^5.4.1",
     "react": "^18.2.0"
   }
 }
